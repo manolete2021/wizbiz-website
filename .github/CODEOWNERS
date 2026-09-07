@@ -1,0 +1,11 @@
+# Every file, unless a later rule overrides it
+*               @manolete2021
+
+# Front-end markup and styles
+*.html          @manolete2021
+css/            @manolete2021
+js/             @manolete2021
+
+# Anything that changes how the project is run
+.github/        @manolete2021
+tests/          @manolete2021
